@@ -1,4 +1,4 @@
-# Customer-Segmentation-Machine-Learning-model-in-Spark-framework-using-PySpark
+# Customer-Segmentation-complete EDA and Machine-Learning-model-in-Spark-framework-using-PySpark
 Customer segmentation model developed using Spark ML
 Models used are,
 **Logistic Regression** – This is a very popular statistical classification technique that uses a logit function to model the binary target variable. 
